@@ -1,0 +1,23 @@
+{
+  "name": "wx-create",
+  "version": "1.0.1",
+  "description": "微信小程序页面创建助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "wx",
+    "wx-template",
+    "wx-create",
+    "wx-page",
+    "微信小程序",
+    "微信小程序助手"
+  ],
+  "bin": {
+    "test": "./index.js"
+  },
+  "author": "asen",
+  "license": "MIT"
+}
