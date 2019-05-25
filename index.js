@@ -1,4 +1,5 @@
 #!/usr/bin/env node 
+/** this is test */
 /*
 __dirname：    获得当前执行文件所在目录的完整目录名
 __filename：   获得当前执行文件的带有完整绝对路径的文件名
